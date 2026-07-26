@@ -13,9 +13,9 @@
 // @license             MPL-2.0
 // @license^            Mozilla Public License 2.0
 // @charset		        UTF-8
-// @homepageURL         https://github.com/SynRGB/BiliBili-TextFavList
-// @contributionURL     https://github.com/SynRGB/BiliBili-TextFavList
-// @copyright           Copyright © 2022-PRESENT, Mehver (https://github.com/Mehver)
+// @homepageURL         https://github.com/MehverSynRGB/BiliBili-TextFavList
+// @contributionURL     https://github.com/MehverSynRGB/BiliBili-TextFavList
+// @copyright           Copyright (c) 2022 Mehver (https://github.com/Mehver). All rights reserved.
 // @grant               GM_addStyle
 // @grant               GM_getResourceText
 // @grant               GM_getValue
@@ -298,5 +298,5 @@ function convertPubDate(date) {
 /////// DataTable 的排序算法 ////////
 ///////////////////////////////////
 
-console.log("JS script BiliBili-TextFavList (BiliBili-文字收藏夹列表) loaded. See more details at https://github.com/SynRGB/BiliBili-TextFavList");
+console.log("JS script BiliBili-TextFavList (BiliBili-文字收藏夹列表) loaded. See more details at https://github.com/MehverSynRGB/BiliBili-TextFavList");
 

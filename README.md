@@ -5,10 +5,10 @@
 > 因定制，自 `2023 年 8 月 16 日` 发布后归档，不长期维护。请注意，随着网站的更新，可能会存在兼容性问题。
 
 <div align="center">
-    <img src="https://github.com/SynRGB/BiliBili-TextFavList/raw/main/%23README/icon/256.png" width="20%"/>
+    <img src="https://github.com/MehverSynRGB/BiliBili-TextFavList/raw/main/docs/icon/256.png" width="20%"/>
     <h1>BiliBili-文字收藏夹列表 <code>v1.0</code></h1>
 	<p>
-        <a href='https://github.com/SynRGB/BiliBili-TextFavList'><img src="https://img.shields.io/badge/-GitHub-3A3A3A?style=flat&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a>
+        <a href='https://github.com/MehverSynRGB/BiliBili-TextFavList'><img src="https://img.shields.io/badge/-GitHub-3A3A3A?style=flat&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a>
 	    <a href='https://greasyfork.org/zh-CN/scripts/473215-bilibili-textfavlist'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
     </p>
 </div>

@@ -298,5 +298,5 @@ function convertPubDate(date) {
 /////// DataTable 的排序算法 ////////
 ///////////////////////////////////
 
-console.log("JS script BiliBili-TextFavList (BiliBili-文字收藏夹列表) loaded. See more details at https://github.com/MehverSynRGB/BiliBili-TextFavList");
+console.log("Script BiliBili-TextFavList (BiliBili-文字收藏夹列表) loaded successfully. https://github.com/MehverSynRGB/BiliBili-TextFavList");
 
